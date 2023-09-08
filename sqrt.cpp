@@ -1,12 +1,3 @@
-/*******************************************************************************
- * Filename: sqrt.cpp
- * Author  : Aya Salama
- * Version : 1.0
- * Date    : September 6, 2023
- * Description: Computes the square root of a number.
- * Pledge  : I pledge my honor that I have abided by the Stevens Honor System.
- ******************************************************************************/
-
 #include <iostream>
 #include <sstream>
 #include <iomanip>
